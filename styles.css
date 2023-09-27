@@ -81,6 +81,18 @@ button:hover{
       text-decoration: underline;
 }
 
+#skills{
+      margin: 40px;
+}
+
+ul{
+      list-style: circle;
+}
+
+li{
+      color: #2E3232;
+}
+
 
 
 /* 
