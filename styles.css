@@ -62,7 +62,7 @@ button:hover{
       background-color: #444545;
 }
 
-#experiences{
+#experiences, #achievements{
       margin: 40px;
 }
 
@@ -91,6 +91,18 @@ ul{
 
 li{
       color: #2E3232;
+}
+
+.achievement{
+      margin: 20px 0;
+}
+
+.achievement span{
+      font-size: 14px;
+}
+
+.achievement small{
+      font-style: italic;
 }
 
 
