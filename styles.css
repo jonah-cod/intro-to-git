@@ -1,0 +1,90 @@
+body{
+      background-color: #FFFFFF;
+      margin: 0;
+}
+
+nav{
+      background-color: #F4F4F4;
+      padding: 20px;
+      
+}
+
+nav a{
+      text-decoration: none;
+      margin-left: 40px;
+      font-size: 16px;
+      color: #2E3232;
+}
+
+h6{
+      font-size: 16px;
+      color: #2E3232;
+      margin-left: 40px;
+}
+
+
+img{
+      border-radius: 50%;
+      float: left;
+      width: 80px;
+      margin: 0 40px;
+}
+
+h2{
+      font-size: 24px;
+      color: #2E3232;
+      margin-top: 20px;
+      text-transform: uppercase;
+}
+
+#about{
+      margin: 40px;
+      width: 450px;
+}
+
+#about p{
+      line-height: 20px;
+      color: #2E3232;
+}
+
+button{
+      background-color: #2E3232;
+      color: #FFFFFF;
+      outline: none;
+      border: none;
+      padding: 10px 24px;
+      border-radius: 20px;
+      transition: 0.3s ease-in;
+}
+
+button:hover{
+      cursor: pointer;
+      background-color: #444545;
+}
+
+#experiences{
+      margin: 40px;
+}
+
+.experience{
+      margin-bottom: 20px;
+}
+
+.experience span{
+      font-size: 12px;
+}
+
+.experience h4{
+      color: #2E3232;
+      font-size: 18px;
+      margin: 5px 0;
+      text-decoration: underline;
+}
+
+
+
+/* 
+      nav - #F4F4F4
+      body - #FFFFFF
+      font-color #2E3232
+*/
